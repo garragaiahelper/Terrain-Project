@@ -6,3 +6,4 @@
 # Recorded the image using unity recorder
 
  
+![Image Sequence_001_0164](https://github.com/garragaiahelper/Terrain-Project/assets/43009382/e1588798-448d-441b-afde-f3e9697b99d9)
